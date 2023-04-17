@@ -6,7 +6,7 @@ Funcionalidades
 
 O sistema possui as seguintes funcionalidades:
 
-Cadastro de novos usuários com nome, e-mail, usuário e senha;
+• Cadastro de novos usuários com nome, e-mail, usuário e senha;
 
-Autenticação de usuários existentes.
+• Autenticação de usuários existentes.
 
